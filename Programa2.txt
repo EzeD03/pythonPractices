@@ -1,0 +1,2 @@
+print("Prueba en documento de texto")
+print("Prueba correcta")
